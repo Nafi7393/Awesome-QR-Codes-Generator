@@ -1,3 +1,5 @@
 amzqr==0.0.1
 Pillow==9.3.0
 streamlit==1.15.2
+qrcode~=7.3.1
+segno~=1.5.2
